@@ -1,0 +1,18 @@
+{
+  "database": {
+    "host": "localhost",
+    "name": "test_db",
+    "password": "test_password",
+    "port": "5432",
+    "username": "test_user"
+  },
+  "logging": {
+    "filename": "/var/log/myapp.log",
+    "level": "info"
+  },
+  "server": {
+    "debug": "true",
+    "host": "localhost",
+    "port": "8080"
+  }
+}
